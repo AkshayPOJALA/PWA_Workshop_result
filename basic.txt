@@ -1,0 +1,13 @@
+<html>
+<body>
+  <p><pre>
+  git init
+git clone URL
+git add --a
+git config --global user.email "our.mail"
+git config --global user.name "github username
+git commit -am "add the file"
+git push origin master
+</pre></p>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "basics":{
+    "name":"THOR",
+    "phone":"0101010101010",
+    "email":"akshay.thor@mail.com"
+  },
+  "education":[
+    {
+    "course":"B.TECH(CSE)",
+    "college":["gec","2015-2019"],
+    "Grade":"A+"
+  },
+  {
+    "course":"Inter",
+    "college":["NRI","2013-2015"],
+    "Grade":"A+"
+  }
+],
+"skills":[
+  {
+    "name":"Language known",
+    "info":["c","python","java","javascript"]
+  },
+  {
+    "name":"Operating Systems",
+    "info":["linux","windows","fedora","unix"]
+  },
+  {
+    "name":"libraries",
+    "info":["jquery","bootstrap"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["Oracle","Mysql"]
+  }
+
+]
+}
